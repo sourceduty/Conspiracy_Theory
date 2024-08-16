@@ -1,10 +1,9 @@
-### Conspiracy_Theory
-
-🏛️ Conspiracy theory information with real-world examples.
-
-***
 ![banner1](https://github.com/sourceduty/Conspiracy_Theory/assets/123030236/6e6eea5b-c77b-4483-aecc-1c42c25c801e)
-***
+
+> Conspiracy theory information with real-world examples.
+
+#
+
 Conspiracy theories are often based on unfounded or speculative ideas that suggest secretive or malicious actions by individuals, groups, or organizations. While conspiracy theories themselves are not business practices, there are instances where businesses or individuals may exploit conspiracy theories for financial gain or other motives. These practices can be harmful and unethical. Here are some examples:
 
 1. Selling merchandise: Some individuals or businesses may create and sell merchandise related to popular conspiracy theories. This could include T-shirts, books, DVDs, or other products that promote or exploit the conspiracy theory, capitalizing on the fear or curiosity of individuals who believe in or are interested in the theory.
